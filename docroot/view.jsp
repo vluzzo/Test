@@ -18,4 +18,4 @@
 
 <portlet:defineObjects />
 
-This is the <b>LifeRayTest</b> portlet.
+This is the <b>LifeRayTest Changed</b> portlet.
