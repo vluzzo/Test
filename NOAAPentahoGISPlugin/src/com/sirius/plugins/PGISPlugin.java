@@ -39,6 +39,8 @@ public class PGISPlugin extends BaseStep implements StepInterface {
 	private String dbUserName = "";
 	private String dbPassword = "";
 	
+	// Test Commit
+	
 	Object[] r = null;
 	
 	public PGISPlugin(StepMeta s, StepDataInterface stepDataInterface, int c, TransMeta t, Trans dis) {
